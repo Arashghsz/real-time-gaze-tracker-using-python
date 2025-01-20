@@ -21,4 +21,4 @@ This project implements a real-time gaze tracker using Python, leveraging comput
 - Camera (external or built-in)
 - OpenCV and Dlib libraries (can be installed via `pip install opencv-python dlib`)
 ## Screenshot
-![Real-Time Gaze Tracker Example](face_landmarks.png)
+![Real-Time Gaze Tracker Example](face_landmarks.dat.png)
